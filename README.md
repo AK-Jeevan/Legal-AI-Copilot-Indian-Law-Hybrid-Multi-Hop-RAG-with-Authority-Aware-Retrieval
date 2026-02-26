@@ -1,0 +1,2 @@
+# Legal-AI-Copilot-Indian-Law-Hybrid-Multi-Hop-RAG-with-Authority-Aware-Retrieval
+Built an authority-aware multi-hop Legal AI system for Indian Law using Hybrid Retrieval (BM25 + FAISS), Cross-Encoder reranking, and citation-grounded answer generation. Integrated evaluation framework with Recall@K, MRR, Faithfulness, and hallucination detection. Designed for reliable legal reasoning across Acts and Constitution.
